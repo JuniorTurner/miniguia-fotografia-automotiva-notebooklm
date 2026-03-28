@@ -23,10 +23,8 @@ Fontes selecionadas para o estudo de cinema no NotebookLM:
 
 ## Miniguia de Estudo (Entrega Final)
 
-### Resumo Estruturado
-* **Composição:** Uso de proporção 21:9 e enquadramentos que mostram o ambiente ao redor do carro.
-* **Color Grading:** Sombras levemente azuladas e realces quentes para simular a película de filme.
-* **Foco:** Uso de foco seletivo para guiar o olhar do espectador para detalhes específicos, como as rodas ou a curvatura do farol.
+**Guia de Estudos: Estética Cinematográfica e Tecnologia na Fotografia Moderna
+Este guia de estudos foi desenvolvido para sintetizar os conceitos fundamentais de estética visual, óptica cinematográfica e tecnologias de edição baseadas em inteligência artificial, conforme apresentados nos documentos de referência. O foco abrange desde a teoria das cores aplicada ao cinema até técnicas avançadas de fotografia automotiva e urbana.**
 
 ### Glossário
 * **Aspect Ratio:** A proporção da tela (ex: 2.35:1), essencial para o visual de cinema.
