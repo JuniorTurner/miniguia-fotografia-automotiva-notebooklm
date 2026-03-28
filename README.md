@@ -35,5 +35,5 @@ Este guia de estudos foi desenvolvido para sintetizar os conceitos fundamentais 
 * "Como simular o grão de filme de 35mm em fotos digitais de carros?"
 * "Sugira uma paleta de cores cinematográfica para um carro vermelho em um dia nublado."
 
-*  ## 🔗 Links do Projeto
+*  ##  Links do Projeto
 * **Caderno no NotebookLM:** https://notebooklm.google.com/notebook/7d933ec2-ed0f-4e86-87ca-a5fc68a69b1b
